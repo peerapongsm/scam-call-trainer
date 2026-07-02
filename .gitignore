@@ -4,5 +4,8 @@ node_modules/
 out/
 .env
 .env.*
+!.env.local.example
 memory.md
 .superpowers/
+*.tsbuildinfo
+next-env.d.ts

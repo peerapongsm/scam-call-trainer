@@ -1,0 +1,154 @@
+[
+  {
+    "id": "impersonation",
+    "labelTh": "อ้างเป็นเจ้าหน้าที่/หน่วยงาน",
+    "explanationTh": "มิจฉาชีพมักอ้างเป็นตำรวจ ธนาคาร ไปรษณีย์ หรือหน่วยงานรัฐ — หน่วยงานจริงไม่โทรมาแจ้งคดีหรือขอข้อมูลทางโทรศัพท์ ให้วางสายแล้วโทรกลับเบอร์ทางการเอง",
+    "sources": [
+      {
+        "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+        "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://www.bot.or.th/th/satang-story/fraud/call-center.html",
+        "publisher": "ธนาคารแห่งประเทศไทย (กลโกงทางโทรศัพท์)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "fear-pressure",
+    "labelTh": "ขู่ให้กลัว (มีคดี/จะถูกจับ)",
+    "explanationTh": "การขู่ว่าพัวพันคดี มีหมายจับ หรือบัญชีถูกอายัด คือเทคนิคสร้างความตื่นตระหนกให้เหยื่อตัดสินใจโดยไม่ทันคิด",
+    "sources": [
+      {
+        "url": "https://www.prd.go.th/th/content/category/detail/id/33/iid/472540",
+        "publisher": "กรมประชาสัมพันธ์ (PRD) อ้างศูนย์ AOC 1441 กระทรวงดีอี",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://www.bot.or.th/th/satang-story/fraud/call-center.html",
+        "publisher": "ธนาคารแห่งประเทศไทย (กลโกงทางโทรศัพท์)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "urgency",
+    "labelTh": "เร่งรัด ห้ามวางสาย ห้ามปรึกษาใคร",
+    "explanationTh": "โจรจะบีบให้รีบทำ \"เดี๋ยวนี้\" และห้ามเล่าให้ใครฟัง เพราะถ้าเหยื่อมีเวลาคิดหรือถามคนรอบข้างจะรู้ทัน",
+    "sources": [
+      {
+        "url": "https://www.stkc.go.th/info/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C",
+        "publisher": "ศูนย์ความรู้ด้านวิทยาศาสตร์และเทคโนโลยี (อว.) อ้าง กสทช.",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://www.bot.or.th/th/satang-story/fraud/call-center.html",
+        "publisher": "ธนาคารแห่งประเทศไทย (กลโกงทางโทรศัพท์)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "personal-info",
+    "labelTh": "ขอข้อมูลส่วนตัว/OTP",
+    "explanationTh": "เจ้าหน้าที่จริงไม่ขอเลขบัตรประชาชน เลขบัญชี รหัสผ่าน หรือ OTP ทางโทรศัพท์เด็ดขาด",
+    "sources": [
+      {
+        "url": "https://www.bot.or.th/th/satang-story/fraud/call-center.html",
+        "publisher": "ธนาคารแห่งประเทศไทย (กลโกงทางโทรศัพท์)",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://samutprakan.police.go.th/index.php/en/h-news/news/270-5-2",
+        "publisher": "ตำรวจภูธรจังหวัดสมุทรปราการ (5 วิธีสังเกตแก๊งคอลเซ็นเตอร์)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "money-transfer",
+    "labelTh": "ให้โอนเงินไป \"บัญชีปลอดภัย\"",
+    "explanationTh": "ไม่มีหน่วยงานไหนให้โอนเงินไป \"บัญชีปลอดภัย\" เพื่อตรวจสอบ — คำนี้คือสัญญาณโจร 100%",
+    "sources": [
+      {
+        "url": "https://www.mdes.go.th/news/detail/8191",
+        "publisher": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม / ศูนย์ AOC 1441 (เคสตัวอย่างจริง)",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+        "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "app-install",
+    "labelTh": "ให้กดลิงก์/ติดตั้งแอปแปลก",
+    "explanationTh": "ลิงก์หรือแอปที่ส่งมาให้ติดตั้งมักเป็นแอปดูดเงิน ควบคุมเครื่องระยะไกล — ติดตั้งแอปจากสโตร์ทางการเท่านั้น",
+    "sources": [
+      {
+        "url": "https://www.prd.go.th/th/content/category/detail/id/33/iid/472540",
+        "publisher": "กรมประชาสัมพันธ์ (PRD) อ้างศูนย์ AOC 1441 กระทรวงดีอี",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://samutprakan.police.go.th/index.php/en/h-news/news/270-5-2",
+        "publisher": "ตำรวจภูธรจังหวัดสมุทรปราการ (5 วิธีสังเกตแก๊งคอลเซ็นเตอร์)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "call-transfer",
+    "labelTh": "โอนสายต่อให้ \"ตำรวจ/เจ้าหน้าที่\"",
+    "explanationTh": "การโอนสายต่อให้ \"ร้อยเวร\" หรือ \"เจ้าหน้าที่ระดับสูง\" คือละครหลายบทบาทของแก๊งเดียวกัน หน่วยงานจริงไม่ทำแบบนี้",
+    "sources": [
+      {
+        "url": "https://www.mdes.go.th/news/detail/8191",
+        "publisher": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม / ศูนย์ AOC 1441 (เคสตัวอย่างจริง)",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+        "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "too-good",
+    "labelTh": "ผลตอบแทนสูงเกินจริง",
+    "explanationTh": "การันตีกำไรสูงๆ ในเวลาสั้นๆ โดยไม่มีความเสี่ยง ไม่มีอยู่จริง — การลงทุนจริงต้องมีใบอนุญาตจาก ก.ล.ต.",
+    "sources": [
+      {
+        "url": "https://www.prd.go.th/th/content/category/detail/id/33/iid/472540",
+        "publisher": "กรมประชาสัมพันธ์ (PRD) อ้างศูนย์ AOC 1441 กระทรวงดีอี",
+        "accessed": "2026-07-02",
+        "verified": true
+      },
+      {
+        "url": "https://www.bot.or.th/th/satang-story/fraud/call-center.html",
+        "publisher": "ธนาคารแห่งประเทศไทย (กลโกงทางโทรศัพท์)",
+        "accessed": "2026-07-02",
+        "verified": true
+      }
+    ]
+  }
+]

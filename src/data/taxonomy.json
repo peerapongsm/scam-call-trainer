@@ -1,0 +1,226 @@
+{
+  "caseTypes": [
+    {
+      "id": "shopping-scam-non-organized",
+      "nameTh": "หลอกลวงซื้อขายสินค้าหรือบริการ (ที่ไม่เป็นขบวนการ)",
+      "description": "หลอกขายสินค้า/บริการออนไลน์แล้วไม่ส่งของหรือของไม่ตรงปก โดยไม่เป็นขบวนการ",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "impersonate-to-borrow-money",
+      "nameTh": "หลอกลวงเป็นบุคคลอื่นเพื่อยืมเงิน",
+      "description": "ปลอมหรือสวมรอยเป็นคนรู้จักหรือบุคคลอื่นเพื่อขอยืมเงิน",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "romance-scam",
+      "nameTh": "หลอกลวงให้รักแล้วโอนเงิน (Romance Scam)",
+      "description": "สร้างความสัมพันธ์ออนไลน์จนสนิทใจแล้วหลอกให้โอนเงิน",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "prize-transfer-scam",
+      "nameTh": "หลอกลวงให้โอนเงินเพื่อรับรางวัลหรือวัตถุประสงค์อื่น",
+      "description": "อ้างว่าถูกรางวัลหรือมีสิทธิพิเศษ ให้โอนค่าธรรมเนียม/ภาษีก่อนรับรางวัล",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "loan-scam",
+      "nameTh": "หลอกลวงให้กู้เงิน",
+      "description": "อ้างปล่อยกู้ง่าย ดอกเบี้ยต่ำ แล้วเรียกเก็บค่าธรรมเนียมหรือค่าค้ำประกันล่วงหน้า",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "job-income-scam",
+      "nameTh": "หลอกลวงให้โอนเงินเพื่อทำงานหารายได้พิเศษ",
+      "description": "ชวนทำงานออนไลน์/ทำภารกิจ ให้สำรองเงินเข้าไปก่อนแล้วเชิดเงินหนี",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "phone-threat-call-center",
+      "nameTh": "ข่มขู่ทางโทรศัพท์ให้เกิดความกลัวแล้วหลอกให้โอนเงิน (Call Center)",
+      "description": "แก๊งคอลเซ็นเตอร์โทรอ้างเป็นเจ้าหน้าที่ ขู่ว่าพัวพันคดี แล้วหลอกให้โอนเงิน “ตรวจสอบ”",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        },
+        {
+          "url": "https://www.mdes.go.th/news/detail/8191",
+          "publisher": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม / ศูนย์ AOC 1441 (เคสตัวอย่างจริง)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "hacking-for-fraud",
+      "nameTh": "กระทำต่อระบบหรือข้อมูลคอมพิวเตอร์โดยผิดกฎหมายเพื่อฉ้อโกง กรรโชก หรือรีดเอาทรัพย์ (Hacking)",
+      "description": "เจาะระบบหรือข้อมูลคอมพิวเตอร์โดยมิชอบเพื่อฉ้อโกงหรือกรรโชกทรัพย์",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "ransomware",
+      "nameTh": "เข้ารหัสข้อมูลคอมพิวเตอร์ของผู้อื่นโดยมิชอบเพื่อกรรโชกหรือรีดเอาทรัพย์ (Ransomware)",
+      "description": "เข้ารหัสข้อมูลของเหยื่อแล้วเรียกค่าไถ่เพื่อปลดล็อก",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "remote-control-app-scam",
+      "nameTh": "หลอกให้ติดตั้งโปรแกรมเพื่อควบคุมระบบในเครื่องโทรศัพท์",
+      "description": "อ้างเป็นหน่วยงาน/บริษัท ส่งลิงก์ให้ติดตั้งแอปควบคุมเครื่องแล้วดูดเงินจากบัญชี",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        },
+        {
+          "url": "https://www.mdes.go.th/news/detail/8191",
+          "publisher": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม / ศูนย์ AOC 1441 (เคสตัวอย่างจริง)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "digital-asset-scam",
+      "nameTh": "หลอกเกี่ยวกับสินทรัพย์ดิจิทัล",
+      "description": "หลอกลวงเกี่ยวกับคริปโทเคอร์เรนซีหรือสินทรัพย์ดิจิทัลอื่น",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "online-investment-scam",
+      "nameTh": "หลอกให้ลงทุนผ่านระบบคอมพิวเตอร์",
+      "description": "ชวนลงทุนผ่านแพลตฟอร์มหรือแอปปลอม ล่อด้วยผลตอบแทนสูงเกินจริง",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "shopping-scam-organized",
+      "nameTh": "หลอกซื้อขายสินค้าหรือบริการที่มีลักษณะเป็นขบวนการ",
+      "description": "หลอกขายสินค้า/บริการโดยกลุ่มมิจฉาชีพที่ทำเป็นขบวนการ",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "public-fraud-investment-scam",
+      "nameTh": "หลอกให้ลงทุนตาม พ.ร.ก.การกู้ยืมเงินที่เป็นการฉ้อโกงประชาชน พ.ศ. 2527",
+      "description": "หลอกลงทุนลักษณะแชร์ลูกโซ่หรือระดมทุนฉ้อโกงประชาชน",
+      "sources": [
+        {
+          "url": "https://sichon.nakhonsithammarat.police.go.th/wp-content/uploads/2025/03/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.pdf",
+          "publisher": "สำนักงานตำรวจแห่งชาติ (คำสั่ง ตร. ที่ 182/2566 — 14 ประเภทคดีอาชญากรรมทางเทคโนโลยี)",
+          "accessed": "2026-07-02",
+          "verified": true
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "year2568": {
+      "cases": 405929,
+      "damageMillionBaht": 23403,
+      "periodNote": "สถิติปี 2568 เฉพาะกลุ่มวัยทำงานอายุ 20–49 ปี (ศูนย์ AOC 1441, เผยแพร่ 3 ก.พ. 2569)",
+      "sources": [
+        {
+          "url": "https://www.prd.go.th/th/content/category/detail/id/33/iid/472540",
+          "publisher": "กรมประชาสัมพันธ์ (PRD) อ้างศูนย์ AOC 1441 กระทรวงดีอี",
+          "accessed": "2026-07-02",
+          "verified": true
+        },
+        {
+          "url": "https://saranitet.police.go.th/commanders-mission/crime-prevention-and-suppression_11052026_62754/",
+          "publisher": "สำนักงานตำรวจแห่งชาติ — ศูนย์ต่อต้านการฉ้อโกงออนไลน์ (ACSC)",
+          "accessed": "2026-07-02",
+          "verified": true
+        },
+        {
+          "url": "https://www.thaipbs.or.th/verify/article/content/976",
+          "publisher": "Thai PBS Verify อ้างข้อมูล บช.สอท. (ม.ค.–มี.ค. 2568)",
+          "accessed": "2026-07-02",
+          "verified": true,
+          "secondary": true
+        }
+      ]
+    }
+  }
+}
