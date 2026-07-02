@@ -22,7 +22,7 @@ export default function RootLayout({
         <div className="flex-1">{children}</div>
         <AocBanner />
         <Script
-          src="https://cloud.umami.is/script.js"
+          src="https://umami-host-peerapongsms-projects.vercel.app/script.js"
           data-website-id="3f09453d-0b39-443e-8845-5e65611cc58a"
           strategy="afterInteractive"
         />
