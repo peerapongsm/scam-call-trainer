@@ -53,6 +53,10 @@ export function buildGeminiRequest(
       responseMimeType: "application/json",
       temperature: 0.9,
       maxOutputTokens: 512,
+      // gemini-2.5-flash spends the output budget on thinking tokens by
+      // default → MAX_TOKENS truncates the JSON reply. No thinking needed
+      // for short in-character lines.
+      thinkingConfig: { thinkingBudget: 0 },
     },
   };
 }
