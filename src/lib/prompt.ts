@@ -38,12 +38,17 @@ export function buildGeminiRequest(
   transcript: ChatTurn[],
 ): object {
   const window = takeTranscriptWindow(transcript);
+  // Gemini rejects an empty contents array (400 INVALID_ARGUMENT), and the
+  // opening line of a call has no transcript yet — seed a synthetic user turn.
+  const contents = window.length
+    ? window.map((t) => ({
+        role: t.role === "player" ? "user" : "model",
+        parts: [{ text: t.text }],
+      }))
+    : [{ role: "user", parts: [{ text: "(ผู้เล่นรับสาย) สวัสดีครับ" }] }];
   return {
     systemInstruction: { parts: [{ text: buildSystemPrompt(scenario, beat) }] },
-    contents: window.map((t) => ({
-      role: t.role === "player" ? "user" : "model",
-      parts: [{ text: t.text }],
-    })),
+    contents,
     generationConfig: {
       responseMimeType: "application/json",
       temperature: 0.9,

@@ -54,6 +54,15 @@ describe("buildGeminiRequest", () => {
     expect(req.contents.map((c) => c.role)).toEqual(["model", "user"]);
     expect(req.generationConfig.responseMimeType).toBe("application/json");
   });
+
+  it("seeds a synthetic user turn when the transcript is empty (Gemini rejects empty contents)", () => {
+    const req = buildGeminiRequest(scenario, beat, []) as {
+      contents: Array<{ role: string; parts: Array<{ text: string }> }>;
+    };
+    expect(req.contents).toHaveLength(1);
+    expect(req.contents[0].role).toBe("user");
+    expect(req.contents[0].parts[0].text.length).toBeGreaterThan(0);
+  });
 });
 
 describe("parseModelReply", () => {
